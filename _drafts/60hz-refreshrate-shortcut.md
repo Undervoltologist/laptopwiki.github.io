@@ -19,5 +19,3 @@ ctrl+1 for 120hz (which is my native, it will work with your 165hz too) and ctrl
 Detailed Guide
 https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU
 
-Credits : @Undervolt
-
