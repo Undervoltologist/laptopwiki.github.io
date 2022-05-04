@@ -1,3 +1,6 @@
+How to add 60hz refresh rate to Legion 5 for battery life
+
+
 Step 1: install CRU
 https://www.monitortests.com/download/cru/cru-1.5.1.zip)
 
